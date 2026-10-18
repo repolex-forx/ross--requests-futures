@@ -1,0 +1,11 @@
+{
+  "org": "ross",
+  "repo": "requests-futures",
+  "versions": [
+    {
+      "commit": "73f85fbe0f5ac7599850bddec7108bd57a6249cc",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:10:20.824195+00:00"
+    }
+  ]
+}
