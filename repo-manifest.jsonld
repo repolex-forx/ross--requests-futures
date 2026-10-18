@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ross/requests-futures/commit/73f85fbe0f5ac7599850bddec7108bd57a6249cc",
       "git:hexsha": "73f85fbe0f5ac7599850bddec7108bd57a6249cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ross/requests-futures/commit/25f02578d48b0acad6f293c1a445790cec2bf302",
